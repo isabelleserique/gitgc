@@ -1,0 +1,1 @@
+Projeto de Gerência de Configuração - ICOMP 2026
